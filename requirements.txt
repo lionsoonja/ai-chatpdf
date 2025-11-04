@@ -17,3 +17,6 @@ pysqlite3-binary
 
 # 문서 로더
 pypdf
+
+#
+# force rebuild v1
