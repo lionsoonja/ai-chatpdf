@@ -1,9 +1,19 @@
+# Streamlit (웹 UI)
+streamlit
+
+# LangChain 핵심 패키지
 langchain
-openai
-pypdf
-chromadb
-tiktoken
-langchain-core
-langchain-openai
 langchain-community
+langchain-openai
+langchain-text-splitters
+
+# LLM 및 토크나이저
+openai
+tiktoken
+
+# VectorDB (ChromaDB)
+chromadb
 pysqlite3-binary
+
+# 문서 로더
+pypdf
