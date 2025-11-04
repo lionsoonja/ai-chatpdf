@@ -4,5 +4,6 @@ pypdf
 chromadb
 tiktoken
 langchain-core
+langchain-openai
 langchain-community
 pysqlite3-binary
